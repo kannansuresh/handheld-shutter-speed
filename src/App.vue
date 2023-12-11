@@ -123,5 +123,5 @@ const formData = ref([
 
 <style scoped>
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css');
 </style>
